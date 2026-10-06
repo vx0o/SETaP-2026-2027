@@ -10,7 +10,7 @@ Attendees:
 - Niall Clark
 - Apinaiya Sinnathamby
 - Jaco Chan
-- Maria
+- Maria Borz
 
 
 Main Purpose of the Meeting :

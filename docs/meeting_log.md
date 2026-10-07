@@ -32,6 +32,7 @@ Tasks Before the Next Meeting
 - Prepare a set of questions for the tutor as part of requirements-gathering interview
 
 Meeting 2:
+
 Date: 6 October 2026
 
 Attendees:

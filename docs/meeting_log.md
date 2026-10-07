@@ -47,8 +47,11 @@ For this meeting, it was focused on the interview stage of our project. We neede
 
 What we discussed/did:
 Before the meeting, the members of the group all prepared some questions to ask in the interview for our users. Since our project involves two types of users (teachers and students) we needed a seperate set of interview questions for each. 
+
 During the meeting, we created a shared document and all members added their prepared questions for both teachers and students. Once all the questions were added, we went through each question one-by-one and decided which ones were necessary to keep and which ones were not through group discussion. As an example of our decisions, for some of the questions, we decided it would have been more suitable to ask them as a follow-up to another question rather on their own. 
+
 To finalise our decision in the interview questions that we would ask, the group checked against some requirements to ensure the questions covered all of them in order to have a successful interview which would give us a useful outcome. For example, we wanted to make sure the questions covered rules, success criteria, and current problems with existing processes. 
+
 After the finalisation of questions, we made a google form for teachers and one for students so we can note down and keep track of the answers we get from the interviews.
 
 Tasks Before the Next Meeting

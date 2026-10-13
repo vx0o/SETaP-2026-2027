@@ -53,8 +53,16 @@ During the meeting, we created a shared document and all members added their pre
 
 To finalise our decision in the interview questions that we would ask, the group checked against some requirements to ensure the questions covered all of them in order to have a successful interview which would give us a useful outcome. For example, we wanted to make sure the questions covered rules, success criteria, and current problems with existing processes. 
 
+
 After the finalisation of questions, we made a google form for teachers and one for students so we can note down and keep track of the answers we get from the interviews.
 
 Tasks Before the Next Meeting
 - Each group member will interview other students and staff from the university to ensure we get as much data as possible
 - Note down the answers we get on the google form
+
+
+
+
+Meeting 3: 
+
+Date: 13 October 2026

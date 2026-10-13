@@ -83,7 +83,7 @@ The purpose of this meeting is to review the feedback given from both staff and 
 What we discussed/did: 
 
 As a team we decided to focus on two tasks, these tasks were split between the members of the group: 
-1) summarising and analysing the results given:
+1) summarise and analyse the results given:
   - Established the main problem both staff and students experienced with the current method used to assess contributions
   - Established the difference in opinions of both staff and students 
   - Established what key features should be included and how these feature should be handled
@@ -92,7 +92,7 @@ As a team we decided to focus on two tasks, these tasks were split between the m
 
 This task was completed by Muhamed, Jaco, and Niall.
   
-2) coming up with ideas of what the user interface requirements could be and any additional questions that come out of it:
+2) Come up with ideas of what the user interface requirements could be and any additional questions that come out of it:
   - Used the research summary to come up with the user requirements for both students and staff
   - Split the user requirements into levels of necessity (used key words such as MUST and SHOULD to distinguish)
 

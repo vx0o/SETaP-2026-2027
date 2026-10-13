@@ -63,6 +63,43 @@ Tasks Before the Next Meeting
 
 
 
+
+
 Meeting 3: 
 
 Date: 13 October 2026
+
+Attendees: 
+- Veroniki Adamanantopoulou
+- Muhamed Abdualla
+- Niall Clark
+- Apinaiya Sinnathamby
+- Jaco Chan
+- Maria Borz
+
+Main Purpose of Meeting: 
+The purpose of this meeting is to review the feedback given from both staff and students. Figure out if there are anymore questions for Claudia and start developing user requirements. 
+
+What we discussed/did: 
+In the beginning of the meeting, there was a video interview with lecturer. He answered the prepared questions and he gave us useful input about the logic of the program. 
+
+After this interview we decided to focus on two tasks, these tasks were split between the members of the group: 
+* summarising and analysing the results given:
+  - Established the main problem both staff and students experienced with the current method used to assess contributions
+  - Established the difference in opinions of both staff and students 
+  - Established what key features should be included and how these feature should be handled
+  - Established any potential features that could be added later on 
+
+
+This task was completed by Muhamed, Jaco, and Niall.
+  
+* coming up with ideas of what the user interface requirements could be and any additional questions that come out of it:
+  - Used the research summary to come up with the core requirements for both students and staff
+
+This task was completed by Veroniki, Apinaiya, and Maria.
+
+
+
+
+    
+

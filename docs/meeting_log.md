@@ -107,6 +107,41 @@ Task before next meeting:
 
 
 
+Meeting 4
 
-    
+Date: 16 October 2026
 
+Attendees:
+- Veroniki Adamanantopoulou
+- Muhamed Abdualla
+- Niall Clark
+- Apinaiya Sinnathamby
+- Jaco Chan
+- Maria Borz
+
+Main Purpose of Meeting:
+
+The purpose of this meeting was to review and finalise the user requirements developed after Meeting 3 and agree on a method to use for the project.
+
+What we discussed/did:
+
+As a team, we focused on two main tasks:
+
+1. Reviewing and completing the user requirements
+   - Discussed the proposed requirements for both students and staff.
+   - Reviewed how the requirements addressed the feedback collected from students and staff.
+   - Finalised the user requirements as a team.
+
+2. Agreeing on a method for the project:
+   - Discussed possible approaches to carrying out the project.
+   - Considered how the project could be organised to meet the agreed user requirements.
+   - Agreed on a method to guide the next stages of the project.
+
+Outcome of Meeting:
+
+The user requirements were completed, and the team agreed on a method to use for the project.
+
+Tasks before the next meeting:
+- Review the completed user requirements and check Claudia feedback.
+
+  

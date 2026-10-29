@@ -144,4 +144,58 @@ The user requirements were completed, and the team agreed on a method to use for
 Tasks before the next meeting:
 - Review the completed user requirements and check Claudia feedback.
 
-  
+
+
+Meeting 5
+
+Date: 20 October 2026
+
+Attendees:
+- Veroniki Adamanantopoulou
+- Muhamed Abdualla
+- Niall Clark
+- Apinaiya Sinnathamby
+- Jaco Chan
+- Maria Borz
+
+Main Purpose of Meeting:
+-
+
+
+What we discussed/did:
+- 
+
+Outcome of Meeting:
+-
+
+Tasks before the next meeting:
+- 
+
+
+
+Meeting 6
+
+Date: 28 October 2026
+
+Attendees:
+- Veroniki Adamanantopoulou
+- Muhamed Abdualla
+- Niall Clark
+- Apinaiya Sinnathamby
+- Jaco Chan
+- Maria Borz
+
+Main Purpose of Meeting:
+- The purpose of this meeting was to start week 5 task, which is to turn our user requirements into system requirements.
+
+What we discussed/did:
+- We split into 3 different pairs and allocated specific user requirements to work on and work through the "From User Requirements to System Requirements" worksheet.
+- Once we completed one user requirement together and know what we are doing, we allocated user requirements to each member to work on in their own time.
+
+Outcome of Meeting:
+- The outcome of this meeting is we successfully started creating system requirements based on our user requirements.
+- We all agreed to finish off the work in our own time and have it ready before the next meeting.
+
+Tasks before the next meeting:
+- Complete turning user requirements into system requirements
+- Review the work completed and be ready to discuss in finalising the system requirements in next meeting

@@ -159,17 +159,22 @@ Attendees:
 - Maria Borz
 
 Main Purpose of Meeting:
--
+- Figure out the model to use for the contribution calculation.
+- Adjust the User Requirements List to align with our proposed model.
 
 
 What we discussed/did:
-- 
+- Task Weighted Contribution Calculation, pros and cons.
+- Effort Weighted Contribution Calculation, pros and cons.
+- Which one would be better suited for the intended project and correlates with our interview findings.
+ 
 
 Outcome of Meeting:
--
+- No final decision, so had to ask Claudia for feedback.
+- After feedback, majority vote decided on Effort Weighted Contribution Calculation, so we finilised the user requirments list for submission.
 
 Tasks before the next meeting:
-- 
+- Extract System Requirments using Claudia's given template.
 
 
 

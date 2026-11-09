@@ -204,3 +204,32 @@ Outcome of Meeting:
 Tasks before the next meeting:
 - Complete turning user requirements into system requirements
 - Review the work completed and be ready to discuss in finalising the system requirements in next meeting
+
+Meeting 7 
+
+Date: 03/11/2026
+
+Attendees:
+- Veroniki Adamanantopoulou
+- Muhamed Abdualla
+- Niall Clark
+- Apinaiya Sinnathamby
+- Jaco Chan
+- Maria Borz
+
+
+Main Purpose of Meeting:
+- Turned everyone's user requirements analysis into sentences for the system requirements table.
+- Finish the draft of Chapter 1 : Problem Specification file, containing Process of gathering user requirements, user requirements, system requirements.
+
+What we discussed/did:
+- Reviewed the draft file, made corrections, added missing system requirements.
+- Discussed what needed to be done after feedback was received.
+
+Outcome of Meeting:
+- Submitted the draft file.
+
+Tasks before the next meeting:
+- Review the part of "Proccess of gathering user requirements", as it needed details to be added to be up to standard with marking criteria.
+- Classify user requiremnts into functional and non-functional.
+- Refine excel answer sheet, from interviews.

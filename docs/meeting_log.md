@@ -233,3 +233,25 @@ Tasks before the next meeting:
 - Review the part of "Proccess of gathering user requirements", as it needed details to be added to be up to standard with marking criteria.
 - Classify user requiremnts into functional and non-functional.
 - Refine excel answer sheet, from interviews.
+
+
+
+Meeting 8:
+
+Date: 10 November 2026 Project: Group Work Contribution Manager Project Number: 9 (26/27)
+
+Attendees:
+- Veroniki Adamanantopoulou
+- Muhamed Abdualla
+- Niall Clark
+- Apinaiya Sinnathamby
+- Jaco Chan
+- Maria Borz
+
+Main Purpose of the Meeting : completing non functional system requirements and adding the stakeholder feedback link into the document.
+
+What we discussed: During the meeting we completed the non-functional requirements for the Group Work Contribution Manager. We looked at the qualities the system needs to have beyond its features, such as security, privacy, usability and performance. We considered these mainly in relation to the lecturer review of contribution disputes and the confidential reporting of extenuating circumstances, where access needs to be limited to authorised staff. We also added the link to our stakeholder feedback to the document, so that the feedback we received is easy to find and refer back to. The team also discussed how we could reduce the number of pages in the document to make it more concise, but we did not make any changes to it during this meeting.
+
+Tasks Before the Next Meeting
+* Go over lecture slides for system architecture and modelling
+* Split user requirements into groups for members to break down into system architecture after the practical
